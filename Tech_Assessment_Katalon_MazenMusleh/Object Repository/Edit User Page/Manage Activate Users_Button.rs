@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Manage Activate Users_Button</name>
+   <tag></tag>
+   <elementGuidId>5df2e86f-edc3-4bbe-bc38-bf9455944b9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//em[@class='fa fa-ellipsis-v fa-lg '])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>fb5c03a4-4c2a-46d8-b5b2-0bb5d8bce5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ellipsis-v fa-lg </value>
+      <webElementGuid>639b8298-f7ba-41c4-afed-8fd0981f545e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;office365Div&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;lms-section&quot;]/div[@class=&quot;lms-container lms-margin-bottom-20&quot;]/div[@class=&quot;row lms-margin-top-20&quot;]/div[@class=&quot;col-xs-12 lms-padding-end-0  lms-org-grid-cont col-md-9&quot;]/div[@class=&quot;lms-clear&quot;]/table[@class=&quot;lms-org-table  smart-form table table-bordered table-striped table-hover lms-reports-tbl lms-reports-manage-table lms-user-managment-tbl lms-table-fixed-layout lms-data-table lms-table-popup ng-table&quot;]/tbody[1]/tr[1]/td[@id=&quot;liTrackList_0&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;dropdown btn-group lms-padding-0 lms-float-end&quot;]/a[@id=&quot;lnkViewManageUser&quot;]/em[@class=&quot;fa fa-ellipsis-v fa-lg&quot;]</value>
+      <webElementGuid>74f40bd5-4176-447a-bb61-09d8a1f9d3f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='lnkViewManageUser']/em)[2]</value>
+      <webElementGuid>aae5c89d-6ef0-4746-8fde-15d3c686594e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/div/a/em</value>
+      <webElementGuid>30166e10-801a-4c2a-80f8-7d7c861253a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

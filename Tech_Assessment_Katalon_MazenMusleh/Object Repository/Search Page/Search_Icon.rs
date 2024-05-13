@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search_Icon</name>
+   <tag></tag>
+   <elementGuidId>f24ce774-0b1a-4e8c-82d2-4e1dc492e5ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa.fa-search.lms-font-medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnUserOrganSearch']/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>994b9d45-f013-44fb-af6f-67ae2326d0eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search lms-font-medium</value>
+      <webElementGuid>ffa2c654-1a0f-422a-91c8-96c66a9d9b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnUserOrganSearch&quot;)/em[@class=&quot;fa fa-search lms-font-medium&quot;]</value>
+      <webElementGuid>fe6d01f9-a240-4875-a761-d59f8d0ad7ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnUserOrganSearch']/em</value>
+      <webElementGuid>7367807f-ee82-4a35-bbaf-4920ce77f497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/em</value>
+      <webElementGuid>a6ade1cd-405d-4a57-a960-df5fe556eec4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

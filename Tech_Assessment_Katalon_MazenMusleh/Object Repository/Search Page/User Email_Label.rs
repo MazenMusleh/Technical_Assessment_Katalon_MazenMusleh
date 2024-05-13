@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>User Email_Label</name>
+   <tag></tag>
+   <elementGuidId>cdf84492-519b-459e-a17c-3a3951af9025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.lms-padding-0.lms-note.lms-block.lms-xs-padding-start-10.lms-wrap-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b94ae52e-2991-4a55-b443-a8ab55e8930b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xs-12 lms-padding-0 lms-note lms-block lms-xs-padding-start-10 lms-wrap-truncate</value>
+      <webElementGuid>cb8b3f0a-d03d-410f-82e4-448ae4b12871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>dd@gmail.com</value>
+      <webElementGuid>ba83a8ff-d349-4f7d-9123-b9b94e30433f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>538e70a5-29c6-4101-843f-831e8f106c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+                                                dd@gmail.com
+                                            </value>
+      <webElementGuid>9f4088c9-198f-49f2-9bef-a91bcdabbde5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;office365Div&quot;)/div[1]/div[1]/div[1]/div[@class=&quot;lms-section&quot;]/div[@class=&quot;lms-container lms-margin-bottom-20&quot;]/div[@class=&quot;row lms-margin-top-20&quot;]/div[@class=&quot;col-xs-12 lms-padding-end-0  lms-org-grid-cont col-md-9&quot;]/div[@class=&quot;lms-clear&quot;]/table[@class=&quot;lms-org-table  smart-form table table-bordered table-striped table-hover lms-reports-tbl lms-reports-manage-table lms-user-managment-tbl lms-table-fixed-layout lms-data-table lms-table-popup ng-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;table-main-xs&quot;]/div[@class=&quot;col-xs-12 col-md-12 lms-padding-end-0&quot;]/div[@class=&quot;lms-truncate lms-inline-block lms-middle lms-line-normal&quot;]/div[@class=&quot;col-xs-12 lms-padding-0 lms-note lms-block lms-xs-padding-start-10 lms-wrap-truncate&quot;]</value>
+      <webElementGuid>a62b540d-f2fd-4281-aeae-0fdd8b6db12a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='office365Div']/div/div/div/div/div/div[3]/div[2]/div[3]/table/tbody/tr/td[2]/div/div/div[2]</value>
+      <webElementGuid>b2de83d9-c96c-4e8a-987b-9e05a62aea47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dd dd'])[1]/following::div[1]</value>
+      <webElementGuid>eb33c4d9-8ff9-4d86-b938-b048daab1404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[3]/following::div[4]</value>
+      <webElementGuid>94bc9c48-9da6-4a6a-b760-9c11bc6d8656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit User'])[1]/preceding::div[1]</value>
+      <webElementGuid>1016436b-69eb-4b83-b785-4c6fc4af7e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate User'])[1]/preceding::div[1]</value>
+      <webElementGuid>bd304e71-8458-4ddd-8312-a06a76037f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dd@gmail.com']/parent::*</value>
+      <webElementGuid>f59d9ab9-d870-4ab0-b37a-c0281f2887e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div[2]</value>
+      <webElementGuid>ce5418d2-e7c7-4082-abb3-91541f82138c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'dd@gmail.com' and (text() = '
+
+                                                dd@gmail.com
+                                            ' or . = '
+
+                                                dd@gmail.com
+                                            ')]</value>
+      <webElementGuid>1137b195-0d4d-4a52-bde1-889dc2ddd37f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

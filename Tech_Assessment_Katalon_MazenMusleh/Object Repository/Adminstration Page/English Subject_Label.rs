@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>English Subject_Label</name>
+   <tag></tag>
+   <elementGuidId>f4ae3e24-3dff-41de-a0a0-e02000e727b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@title=&quot;English&quot;][text()='English']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#subjects > div.lms-row > table.table.table-bordered.table-striped.table-hover.lms-reports-tbl > tbody > tr:nth-of-type(13) > td.lms-detalis-conatiner.lms-no-border-end > label.lms-font-normal.lms-line-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>86fd3e8e-51b4-4780-9b8b-3c8f775a6e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-if</name>
+      <type>Main</type>
+      <value>!subject.editMode</value>
+      <webElementGuid>4b92c968-29b6-4d34-8b8e-f8cb75844b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-font-normal lms-line-normal</value>
+      <webElementGuid>a24e19bf-9e0e-4c43-a259-d0d6a07080ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>18e03c2d-1eb7-49c3-91ce-4f232600827e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>04dadada-bee9-48d7-af32-39bf3270ca4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subjects&quot;)/div[@class=&quot;lms-row&quot;]/table[@class=&quot;table table-bordered table-striped table-hover lms-reports-tbl&quot;]/tbody[1]/tr[13]/td[@class=&quot;lms-detalis-conatiner lms-no-border-end&quot;]/label[@class=&quot;lms-font-normal lms-line-normal&quot;]</value>
+      <webElementGuid>111957ea-6396-44ca-9ca6-ce888add2801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subjects']/div/table/tbody/tr[13]/td/label</value>
+      <webElementGuid>7063cf4d-ffaa-414f-9cb3-6ae8da7b0c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[33]/following::label[1]</value>
+      <webElementGuid>e3dd1dfe-fa2b-4b42-bbc3-707a54f17df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[3]/following::label[1]</value>
+      <webElementGuid>e70e4f55-78e8-4da0-b18d-c454fe044745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[15]/preceding::label[1]</value>
+      <webElementGuid>dac366ab-9bdd-40a1-93e1-df9c78e37347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[34]/preceding::label[1]</value>
+      <webElementGuid>0c1e7ef2-ae9d-4574-8153-563e7345b521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[13]/td/label</value>
+      <webElementGuid>52a43ba3-201d-4074-b13b-96b394d343b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'English' and (text() = 'English' or . = 'English')]</value>
+      <webElementGuid>0a4ab236-492a-4e8b-899f-be7c20b9225a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

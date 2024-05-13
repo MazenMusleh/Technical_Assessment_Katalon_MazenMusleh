@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Parent School_Option</name>
+   <tag></tag>
+   <elementGuidId>f0d6831a-9fd3-4e41-bb32-9940ce055638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#org-tree1 > li.angular-ui-tree-node > div.lms-angluar-ui-tree.angular-ui-tree-handle > #school_94ba5777-f176-43d7-844d-229f9789ba53</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='lms-tree-name lms-tree-name0 lms-tree-selected']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e1588cd-7a3b-4c99-84e0-0dc34941de64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>school_94ba5777-f176-43d7-844d-229f9789ba53</value>
+      <webElementGuid>86203259-93da-4a7b-9c4b-4e53cad63b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>47e55199-3669-43b5-b793-38bf24d2c819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'lms-tree-selected': node.SchoolId == AddEditUserCtrl.selectedSchoolId}</value>
+      <webElementGuid>d809331b-9a18-4a5f-9d53-bc661c53f159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>AddEditUserCtrl.selectSchoolNode(node,userRole)</value>
+      <webElementGuid>bf9a2760-5d48-44c9-9a3c-1378e8dae24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-tree-name lms-tree-name0 lms-tree-selected</value>
+      <webElementGuid>03c50c1b-4c92-43c8-b3d7-e1d73706b5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Parent School</value>
+      <webElementGuid>f3cc9b32-35bf-4531-8e89-df430ed19b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e40a0f76-319a-46a3-9047-7df9c249a6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d9cb771c-c223-400a-bda0-ddd1a971e776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parent School</value>
+      <webElementGuid>e680f610-4995-402a-817d-8e8fa7b8e6e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;org-tree1&quot;)/li[@class=&quot;angular-ui-tree-node&quot;]/div[@class=&quot;lms-angluar-ui-tree angular-ui-tree-handle&quot;]/span[@id=&quot;school_94ba5777-f176-43d7-844d-229f9789ba53&quot;]</value>
+      <webElementGuid>2baaf5f6-32e1-4df5-8194-322b0635b189</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='school_94ba5777-f176-43d7-844d-229f9789ba53'])[2]</value>
+      <webElementGuid>5251fcb7-343f-44a3-b029-291c13569182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ol[@id='org-tree1']/li/div/span</value>
+      <webElementGuid>6be3e314-4f32-47c2-92a3-ccbc463abb98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[5]/following::span[2]</value>
+      <webElementGuid>9a83ac64-0e20-41ee-bb80-e7eabcbbf304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select School Name'])[1]/following::span[4]</value>
+      <webElementGuid>56cd50a1-060c-4d1a-82ac-3e47f4114687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary School'])[4]/preceding::span[1]</value>
+      <webElementGuid>ab6fcbcd-53df-4d75-914b-422136a8be91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Second school'])[2]/preceding::span[7]</value>
+      <webElementGuid>450737ca-82c4-4501-923d-5518eb59f2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ol/li/div/span</value>
+      <webElementGuid>27825bbd-ff67-4490-a8a0-f1dd5308a890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'school_94ba5777-f176-43d7-844d-229f9789ba53' and @title = 'Parent School' and (text() = 'Parent School' or . = 'Parent School')]</value>
+      <webElementGuid>cd4d2618-77ef-4738-bb7c-131e3183e83b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

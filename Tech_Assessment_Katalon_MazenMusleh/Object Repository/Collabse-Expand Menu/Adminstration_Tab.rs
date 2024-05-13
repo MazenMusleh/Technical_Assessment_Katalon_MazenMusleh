@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Adminstration_Tab</name>
+   <tag></tag>
+   <elementGuidId>56de1c74-a646-4043-93a2-af453dbbb60d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAdministration']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAdministration</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5b936f2a-3c24-41d9-b887-71de9e6c1d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAdministration</value>
+      <webElementGuid>56dcf58d-bd12-4b5f-b186-8a488ad099eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-menu-group-item lms-nowrap</value>
+      <webElementGuid>a51a88f8-ec5c-4b37-b2a2-31a3648b61d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Org</value>
+      <webElementGuid>95c64835-4ac9-49eb-b68f-3973a99f02b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Adminstration</value>
+      <webElementGuid>ebd6cba0-601e-4688-8fee-0a45b22ddd12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    
+                                                    
+                                                    Adminstration
+                                                </value>
+      <webElementGuid>923b10ac-014b-474f-8f21-7205f55a0aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAdministration&quot;)</value>
+      <webElementGuid>43ff93bf-5f81-4e97-96a0-1e34ac69e95c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnAdministration']</value>
+      <webElementGuid>11df8888-479f-407e-a736-1c917f66a1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='left-panel']/div/nav/ul/li[4]/ul/li/a</value>
+      <webElementGuid>e896feb1-b1f2-4fb9-8c7e-7114290587e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration Tools'])[1]/following::a[1]</value>
+      <webElementGuid>19f0c5a4-dc24-4d88-b851-89de4a30d051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::a[2]</value>
+      <webElementGuid>b0b61781-c5a6-42ca-861c-ac076ef421a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles &amp; Permissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>71a0ce32-07cb-4931-b221-9aade443a6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Org')]</value>
+      <webElementGuid>70e2a4c1-a0be-4b0d-b36d-f2d0b9b6e379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a</value>
+      <webElementGuid>02f4013d-38df-40fa-a86e-447d90ba21d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnAdministration' and @href = '/Org' and @title = 'Adminstration' and (text() = '
+                                                    
+                                                    
+                                                    Adminstration
+                                                ' or . = '
+                                                    
+                                                    
+                                                    Adminstration
+                                                ')]</value>
+      <webElementGuid>13e3bcb9-0d53-4a1d-a3e6-d53f331b19d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

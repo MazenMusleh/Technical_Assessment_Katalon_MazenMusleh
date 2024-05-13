@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Show Password_Icon</name>
+   <tag></tag>
+   <elementGuidId>394b9904-5408-4a45-8ddb-df11a9861f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-5.lms-xs-only-margin-top-20 > button.lms-toggle-password-visibility.lms-transparent-bg.lms-zindex-10000.lms-margin-end-20 > em.fa.fa-eye.lms-font-base-imp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//em[contains(@data-ng-if,'!AddEditUserCtrl.showEyeConfrimPassword')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>a7dd5906-418e-4c13-9abc-d2b713750ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye lms-font-base-imp</value>
+      <webElementGuid>66de671d-fb20-4c93-bb98-ecd8cfb3694c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-if</name>
+      <type>Main</type>
+      <value>!AddEditUserCtrl.showEyeConfrimPassword</value>
+      <webElementGuid>c752ba0d-11f8-472f-b68a-6cd973a6b9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show password </value>
+      <webElementGuid>067edb99-8a51-4046-a034-ae41b721081f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divPasswordSetting&quot;)/div[@class=&quot;row lms-margin-0&quot;]/div[@class=&quot;col-xs-12 lms-padding-top-2 lms-text-align-start lms-xs-only-padding-end-0-imp&quot;]/div[@class=&quot;col-sm-5 lms-xs-only-margin-top-20&quot;]/button[@class=&quot;lms-toggle-password-visibility lms-transparent-bg lms-zindex-10000 lms-margin-end-20&quot;]/em[@class=&quot;fa fa-eye lms-font-base-imp&quot;]</value>
+      <webElementGuid>43f09b0f-b14d-4720-ba39-6451883f2bc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divPasswordSetting']/div/div[3]/div[2]/button/em</value>
+      <webElementGuid>6cf4ec05-f0b4-42c1-8e48-11ca82c85dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/em</value>
+      <webElementGuid>41abf109-427c-440d-9518-aef5ca9fa625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[@title = 'Show password ']</value>
+      <webElementGuid>0a6ccadc-1895-4726-9cb0-87dd3312ae2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

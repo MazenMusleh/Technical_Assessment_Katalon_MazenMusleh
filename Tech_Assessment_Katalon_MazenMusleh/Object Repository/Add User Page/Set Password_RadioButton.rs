@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Set Password_RadioButton</name>
+   <tag></tag>
+   <elementGuidId>bdea385e-e230-4407-9263-0dbeb294d826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[contains(@for,'rdoSetPass')]//em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>eadaa2f2-fa77-4c0c-970d-6db8eaa1e92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divPasswordSetting&quot;)/div[@class=&quot;row lms-margin-0&quot;]/div[@class=&quot;col-xs-12&quot;]/label[@class=&quot;radio lms-padding-start-30-imp lms-margin-top-0&quot;]/em[1]</value>
+      <webElementGuid>26a7c8c9-7a59-4ef7-8cac-b3058dac5c4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divPasswordSetting']/div/div[2]/label/em</value>
+      <webElementGuid>3969b31a-0886-4849-bfad-230b72bd87c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/em</value>
+      <webElementGuid>7a87c2aa-55af-4be7-aa21-8ea616923bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

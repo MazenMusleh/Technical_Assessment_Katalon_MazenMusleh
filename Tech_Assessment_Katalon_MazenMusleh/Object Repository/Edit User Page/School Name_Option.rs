@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>School Name_Option</name>
+   <tag></tag>
+   <elementGuidId>38e77cd1-3e1d-4061-b353-0a6986d74e52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.lms-org-tree-title.lms-truncate.lms-full-width</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='lblSegments1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26bd36e6-bb33-4329-ab3d-8cdac298133f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-org-tree-title lms-truncate lms-full-width</value>
+      <webElementGuid>03f0e85b-8c5e-4339-919a-1e4ab5cd2195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2c69942b-cfb6-4512-b7b5-e2d65a757194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>AddEditUserCtrl.trustHtml(userRole.selectedSchoolName)</value>
+      <webElementGuid>0e692004-081b-4b1b-bb0a-192ad1f06790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select School Name</value>
+      <webElementGuid>dbde725c-ae0a-47fa-bddb-ecc85d7694d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lblSegments1&quot;)/span[@class=&quot;lms-org-tree-title lms-truncate lms-full-width&quot;]</value>
+      <webElementGuid>8a7e7220-8d5b-470e-87f3-5c561313b398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='lblSegments1']/span</value>
+      <webElementGuid>9b15905c-fff5-4271-b02a-45b73d3bca3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School'])[2]/following::span[1]</value>
+      <webElementGuid>12eab901-1e03-45d9-906c-fc021bfbc14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactivate Role'])[1]/following::span[1]</value>
+      <webElementGuid>523fb6f4-bf8f-4de5-a5a5-aa9fbae37ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[5]/preceding::span[2]</value>
+      <webElementGuid>2547d2a5-7669-4222-a029-a2a1b588ddda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent School'])[6]/preceding::span[4]</value>
+      <webElementGuid>3faf2d33-fa83-4430-a583-4a0aed6ea835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select School Name']/parent::*</value>
+      <webElementGuid>39af16a3-4e98-455f-92ef-65c8f48ff8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a/span</value>
+      <webElementGuid>52b19ef8-672f-433d-ba61-ca875977bef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select School Name' or . = 'Select School Name')]</value>
+      <webElementGuid>269c7264-5afb-4a4e-bb36-fcad7b8a01b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Role Level_List</name>
+   <tag></tag>
+   <elementGuidId>2c4b03c8-4acb-4044-873b-22640dc39f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='txtRoleLevel']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtRoleLevel</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>19dce372-51ad-4341-a5ec-55daabf2b674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtRoleLevel</value>
+      <webElementGuid>34df1cca-fa46-4761-b0eb-95127247ed31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>roleLevel</value>
+      <webElementGuid>a19f6388-82d1-45d2-b463-51d83a85f9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control lms-select-height ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>1bf782e0-7aac-4f42-9671-de5b92bae8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Level</value>
+      <webElementGuid>9a34b43f-6e5c-4944-9c21-5b3ab7f14296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Level Institute  School  Course  Space </value>
+      <webElementGuid>25ced99d-3a17-4750-9538-50ca9c8dec36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtRoleLevel&quot;)</value>
+      <webElementGuid>500ccc5d-5704-4bf0-a661-c66aaa745f1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='txtRoleLevel']</value>
+      <webElementGuid>9ba25c0b-a2f3-4f01-bcb1-b68697383daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Level'])[1]/following::select[1]</value>
+      <webElementGuid>f77dcf37-1004-4005-89d0-defc0eac1d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Category'])[1]/following::select[2]</value>
+      <webElementGuid>dd1b9520-6712-4c9e-a1b2-ccc4c7e3ef4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Optional)'])[1]/preceding::select[1]</value>
+      <webElementGuid>bf41b9a2-7bd0-4f49-800a-da81d66a5d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/select</value>
+      <webElementGuid>4de350ff-2156-45ee-8ccf-fd31815189c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'txtRoleLevel' and @title = 'Select Level' and (text() = 'Select Level Institute  School  Course  Space ' or . = 'Select Level Institute  School  Course  Space ')]</value>
+      <webElementGuid>c614d232-bf20-40d5-a672-b4863b8e7734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

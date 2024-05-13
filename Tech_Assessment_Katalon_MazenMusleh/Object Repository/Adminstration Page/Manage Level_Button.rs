@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Manage Level_Button</name>
+   <tag></tag>
+   <elementGuidId>41a2ae97-da09-4491-b0f5-c25dc7df4a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa.fa-ellipsis-v.fa-2x.lms-darken-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class=&quot;dropdown-toggle btn-link lms-org-dropdown-menu  lms-margin-top-6 lms-padding-0&quot;]//h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>253fe705-dc73-4e5d-a58f-af59add5386a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ellipsis-v fa-2x lms-darken-secondary</value>
+      <webElementGuid>c925a65d-353e-45dc-92d0-0cb8305c36da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lnkManageTenant&quot;)/em[@class=&quot;fa fa-ellipsis-v fa-2x lms-darken-secondary&quot;]</value>
+      <webElementGuid>8bfb7236-3bc9-4a20-aa76-eac657240c20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='lnkManageTenant']/em</value>
+      <webElementGuid>f6e81261-9143-49bc-995f-422571e4b007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/em</value>
+      <webElementGuid>ef3edbd5-c42b-48e0-a7fa-3e12a5424651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

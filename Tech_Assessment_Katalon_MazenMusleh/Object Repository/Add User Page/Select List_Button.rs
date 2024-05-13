@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select List_Button</name>
+   <tag></tag>
+   <elementGuidId>777679c2-f921-4c6e-8332-a94541cb0b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropdown-toggle.lms-full-width.background-white.text-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txtCustomField2']//span[contains(@class,'truncate-label')][normalize-space()='Select value(s)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d69a9227-e93d-477a-95b4-3dbebbf72679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>12b42647-efb5-46a1-a610-460216b964b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle lms-full-width background-white  text-left</value>
+      <webElementGuid>a53457f4-c57f-44db-9427-a1225d70de0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>settings.buttonClasses</value>
+      <webElementGuid>f73a0822-8726-48a2-b3c4-b1ef1a2551e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select value(s)</value>
+      <webElementGuid>f4e6fe47-391e-4452-8bdb-43cf51060082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>toggleDropdown()</value>
+      <webElementGuid>df71710a-bf84-410f-8695-ecb9eec90b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select value(s) </value>
+      <webElementGuid>c10528f0-403b-4cb5-baee-5a06c014803c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtCustomField2&quot;)/div[@class=&quot;multiselect-parent btn-group dropdown-multiselect lms-full-width&quot;]/button[@class=&quot;dropdown-toggle lms-full-width background-white  text-left&quot;]</value>
+      <webElementGuid>8b070f0e-db54-4a77-a967-34be12310d4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>69152c8f-67d9-4aa6-af54-274d6a3c2fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='txtCustomField2']/div/button</value>
+      <webElementGuid>7224f130-b4b5-4545-8c58-e085fa415233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='list'])[1]/following::button[1]</value>
+      <webElementGuid>9349916b-c6ee-4d08-95bf-e2032b0ad5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Add User'])[1]/following::button[1]</value>
+      <webElementGuid>10b4353f-6b80-481f-bb39-d75e364f1c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check All'])[1]/preceding::button[1]</value>
+      <webElementGuid>714a91fb-8a14-4b3d-92f1-8cd7640abc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-form/div[3]/div/div/div/button</value>
+      <webElementGuid>a87410a7-6644-4838-924a-1e2adb99c37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Select value(s)' and (text() = 'Select value(s) ' or . = 'Select value(s) ')]</value>
+      <webElementGuid>4a3d4047-488e-4bd5-a2d0-98bb5525e5d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

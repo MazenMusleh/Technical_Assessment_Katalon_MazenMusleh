@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Role Category_List</name>
+   <tag></tag>
+   <elementGuidId>f8824e58-9783-4054-9773-060194d85643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='txtRoleCategory']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txtRoleCategory</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d1799bb8-37d3-414f-83df-b10476f8861d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtRoleCategory</value>
+      <webElementGuid>479c5139-4596-4af6-a7ef-16d4f44a6772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>roleCategory</value>
+      <webElementGuid>22487cc7-518e-4721-8ef2-ac9e664866f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control lms-select-height ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>578fda2a-cfb3-483f-ab8a-bc09948dc84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Category</value>
+      <webElementGuid>34deb757-b3b7-4139-a906-6d95674760c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Category Teaching  Learning  Administration  Others </value>
+      <webElementGuid>85e399cb-fd2d-4e0d-ac3b-d8600885bec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtRoleCategory&quot;)</value>
+      <webElementGuid>079818a6-2d32-408a-bc11-cebf8c856f06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='txtRoleCategory']</value>
+      <webElementGuid>dff7e6b9-6d16-4761-9b04-b6cf834fafcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Category'])[1]/following::select[1]</value>
+      <webElementGuid>b0c0fb92-fd39-43fa-8379-f968e47ef3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited Permissions'])[1]/following::select[1]</value>
+      <webElementGuid>1b961ea1-840f-4552-84dc-4bb23fcf6e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Level'])[1]/preceding::select[1]</value>
+      <webElementGuid>bb276ed4-ce89-4b98-ad76-676e27efef3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>9919fde5-4e2f-4e0c-838b-6aeac81f3d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'txtRoleCategory' and @title = 'Select Category' and (text() = 'Select Category Teaching  Learning  Administration  Others ' or . = 'Select Category Teaching  Learning  Administration  Others ')]</value>
+      <webElementGuid>4e5abb2c-1901-4a2a-b03b-869c8b1215a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

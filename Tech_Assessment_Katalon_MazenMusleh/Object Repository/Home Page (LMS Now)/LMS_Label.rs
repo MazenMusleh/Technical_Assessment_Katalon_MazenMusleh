@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LMS_Label</name>
+   <tag></tag>
+   <elementGuidId>77e702ec-1e5d-407d-bc38-49ae5e9c738c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='lms-lms-title lms-bold lms-margin-end-5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.lms-lms-title.lms-bold.lms-margin-end-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6db6482f-aaab-499b-83c8-a7d680947fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lms-lms-title lms-bold lms-margin-end-5</value>
+      <webElementGuid>7ea0feb3-79bd-4cef-9d2d-2eb2a73add0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LMS</value>
+      <webElementGuid>878c7556-ce5a-426e-a766-298c1ec3e892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainView&quot;)/div[@class=&quot;lms-container lms-margin-bottom-40-imp&quot;]/div[@class=&quot;row lms-live-wrapper lms-margin-top-10&quot;]/div[@class=&quot;col-xs-12 lms-margin-bottom-10&quot;]/h1[@class=&quot;lms-inline-block lms-margin-top-0&quot;]/span[@class=&quot;lms-lms-title lms-bold lms-margin-end-5&quot;]</value>
+      <webElementGuid>f60f0c8d-9523-454a-a36b-3ee7438d25a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainView']/div/div/div/h1/span</value>
+      <webElementGuid>ffffc18a-8081-4007-8594-fac54f0a885c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-send'])[2]/following::span[1]</value>
+      <webElementGuid>9b9ca68f-20bd-4536-92ba-649400e43f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-send'])[1]/following::span[2]</value>
+      <webElementGuid>777a1181-f1de-4ce1-b68d-e9b2094d7f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Now'])[1]/preceding::span[1]</value>
+      <webElementGuid>e0a4c086-2c9f-4d33-82db-6c6b158a15fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Now'])[1]/preceding::span[2]</value>
+      <webElementGuid>2d00a1d5-f7a0-4f5f-be54-4695f2bf6085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LMS']/parent::*</value>
+      <webElementGuid>df4010cd-853c-4ade-924d-9b85659f9edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>d1bea5aa-abd0-4abf-8767-f6bd598e2d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'LMS' or . = 'LMS')]</value>
+      <webElementGuid>a5e04300-0c3f-47f9-83b0-cdc7a2858dcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

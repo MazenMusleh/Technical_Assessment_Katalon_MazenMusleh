@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Co Teacher_Label</name>
+   <tag></tag>
+   <elementGuidId>3b0dcca0-cc6c-4aa8-add3-e7e9ee2129df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title='Co Teacher']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lblRoleName25</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>056b4078-2ffb-43f7-ba4f-5604833af6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>3ee62557-3382-4c2b-b30f-f54d2a6ef875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-truncate-lg-cell lms-truncate</value>
+      <webElementGuid>f8eb0deb-d8e6-4f91-b6fb-084f385a7395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lblRoleName25</value>
+      <webElementGuid>415d902c-12ab-4dc5-b5c3-e8850cf2df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Co Teacher</value>
+      <webElementGuid>3d5fefe2-ebe6-4d8d-9587-4f8128289e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Co Teacher</value>
+      <webElementGuid>e69fc4d6-f683-4c80-a3c1-65165ab04bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lblRoleName25&quot;)</value>
+      <webElementGuid>e598bc5b-2f70-402c-9e7a-8304191f88c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='lblRoleName25']</value>
+      <webElementGuid>465943ee-7b92-4447-9c7b-5ee380e4b461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/app-role-management/div[2]/div/mat-table/mat-row[26]/mat-cell/a</value>
+      <webElementGuid>0db99dc5-d688-4fdd-96ba-3f0cc0750a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Co Teacher')]</value>
+      <webElementGuid>4b6781bd-eb05-40ec-bc89-bb3bba8f54fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[15]/following::a[1]</value>
+      <webElementGuid>2ef2994f-d9e3-4023-84e9-afa40d479237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[15]/following::a[1]</value>
+      <webElementGuid>e2ae3f86-aecd-4c11-8985-37a3df2f3d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teaching'])[9]/preceding::a[1]</value>
+      <webElementGuid>70d45f1c-ef6f-41fb-9941-8dc9ea3aa589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Co Teacher']/parent::*</value>
+      <webElementGuid>c5b516ca-32ef-4bca-b4d5-57d59d5ac777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[33]</value>
+      <webElementGuid>b0b2ebf7-2e35-462a-a741-5d74791d6dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-row[26]/mat-cell/a</value>
+      <webElementGuid>69f4a3b0-dcea-4041-b7eb-e705a68dc275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'lblRoleName25' and @title = 'Co Teacher' and (text() = ' Co Teacher' or . = ' Co Teacher')]</value>
+      <webElementGuid>bf96fae2-7179-4ac1-a213-b899f8c12a6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

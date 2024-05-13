@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>English Date_DatePicker</name>
+   <tag></tag>
+   <elementGuidId>c2d50669-8bb9-47ec-a26d-8a3feca26a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//em[@class='fa fa-calendar-o'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>873b00b0-e7dd-4152-ab2a-9c1f7150ce9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar-o</value>
+      <webElementGuid>3a71bf01-9747-4ea4-a912-8c85e23b8c77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divAddEditUser&quot;)/div[1]/div[@class=&quot;lms-add-user-popup lms-activate-survey&quot;]/form[@class=&quot;smart-form ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength ng-dirty ng-valid-min ng-valid-max ng-valid-pattern ng-valid-parse ng-valid-max-tags ng-valid-min-tags ng-valid-leftover-text ng-valid-validate&quot;]/div[@class=&quot;lms-fields-cont custom-scroll lms-padding-20&quot;]/fieldset[1]/div[@class=&quot;lms-row lms-clear lms-main-sec&quot;]/div[@class=&quot;lms-row lms-clear&quot;]/div[@class=&quot;lms-row lms-clear lms-margin-top-0-imp&quot;]/div[@class=&quot;col-xs-12 lms-padding-lr-0-imp lms-user-default-role lms-padding-tb-15 lms-margin-top-10&quot;]/div[@class=&quot;lms-row lms-clear&quot;]/div[1]/div[@class=&quot;lms-row lms-clear lms-margin-0 lms-padding-20 lms-padding-tb-0&quot;]/div[@class=&quot;col-xs-12&quot;]/custom-field-list[1]/div[1]/div[1]/ng-form[@class=&quot;lms-padding-end-5 ng-valid ng-valid-min ng-valid-max ng-valid-required ng-valid-minlength ng-valid-maxlength ng-valid-pattern ng-dirty ng-valid-parse ng-valid-validate&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-11 col-sm-8&quot;]/div[@class=&quot;lms-border input-group lms-input-datapicker lms-calendar-container lms-margin-0  lms-full-width lms-border-radius-40&quot;]/span[@class=&quot;input-group-btn calendars-trigger&quot;]/button[@class=&quot;btn btn-default&quot;]/em[@class=&quot;fa fa-calendar-o&quot;]</value>
+      <webElementGuid>392401fd-b4be-47e9-b46f-cd3f5dce2f37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divAddEditUser']/div/div/form/div/fieldset/div/div/div[3]/div/div/div/div/div/custom-field-list/div/div/ng-form/div[5]/div/div/span/button/em</value>
+      <webElementGuid>a6668467-b328-4fc5-b9fe-5780c59c564d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/span/button/em</value>
+      <webElementGuid>ff7554d5-efea-437e-b3d0-e1d8013a0632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Remember Me_CheckBox</name>
+   <tag></tag>
+   <elementGuidId>037aaaa6-3044-49f4-b37a-b9478fc4b4c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@class='checkbox lms-login-chk lms-padding-top-0']//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>32e3be99-df16-485b-b516-4afa90381caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmlogin&quot;)/div[@class=&quot;form-group lms-row&quot;]/div[@class=&quot;col-sm-5  smart-form hidden-xs&quot;]/label[@class=&quot;checkbox lms-login-chk lms-padding-top-0&quot;]/i[1]</value>
+      <webElementGuid>8a747302-9327-42cf-8368-55aa7298adae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmlogin']/div[4]/div/label/i</value>
+      <webElementGuid>5640f0d8-9b1c-4c6d-8871-63a612e119fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>ab348775-d103-499a-84ef-a9254e65c4d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

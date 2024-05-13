@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create Custom Role_Button</name>
+   <tag></tag>
+   <elementGuidId>2944aa72-8ce5-47e0-bc32-4f1a3c717b5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnCreateCustomRole']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnCreateCustomRole</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>875b210f-42f3-47e5-bedb-a1fd04d25d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnCreateCustomRole</value>
+      <webElementGuid>6ee2c165-7937-4c87-b120-2241828befaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary lms-margin-top-18</value>
+      <webElementGuid>55348880-850c-4ef6-a00c-5564c01d59ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Custom Role </value>
+      <webElementGuid>8c5a1bc4-c05a-40e8-9ce3-a644a5c3fec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnCreateCustomRole&quot;)</value>
+      <webElementGuid>4c45951c-f9ec-4e9a-afdd-fbf28699dd03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnCreateCustomRole']</value>
+      <webElementGuid>dc3ca85e-d7b2-4a5f-9fa7-188d2ae87857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/app-role-management/div/div/div/div[2]/button</value>
+      <webElementGuid>81a1e4d7-77b0-4b7c-9e8f-cb536adf947b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles &amp; Permissions'])[3]/following::button[1]</value>
+      <webElementGuid>e0b32f9a-ce73-4010-9818-b3a8148e18dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-send'])[1]/following::button[1]</value>
+      <webElementGuid>7f5e4cc0-9c4c-4e1f-87db-269eac82a50a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f6c5db4-0c33-480c-8a74-01fd69d319c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::button[1]</value>
+      <webElementGuid>a9203c97-64d4-4b19-9cad-ffe40fee733e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Custom Role']/parent::*</value>
+      <webElementGuid>8abb127a-7615-427c-bad7-aa5d7fad19b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>507aa216-16f5-4c9a-9770-6ed1dbbcaa5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnCreateCustomRole' and (text() = ' Create Custom Role ' or . = ' Create Custom Role ')]</value>
+      <webElementGuid>d9ed8df2-d603-4c28-9368-a25cb827aa0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

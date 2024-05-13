@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>L1_Option</name>
+   <tag></tag>
+   <elementGuidId>f20c5e43-1d93-415b-9344-bb74d6a47acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[normalize-space()='L1']//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.checkbox.lms-truncate.lms-margin-top-0.lms-padding-start-15 > i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fb5a7852-6171-439a-98b9-5ad2ba0acebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtCustomField2&quot;)/div[@class=&quot;multiselect-parent btn-group dropdown-multiselect lms-full-width&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-form  custom-scroll lms-custom-field-menu lms-full-width&quot;]/li[4]/a[1]/label[@class=&quot;checkbox lms-truncate lms-margin-top-0 lms-padding-start-15&quot;]/i[1]</value>
+      <webElementGuid>c36d8699-532d-4556-8586-315c44eb3586</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='txtCustomField2']/div/ul/li[4]/a/label/i</value>
+      <webElementGuid>29d8c217-a821-4340-b4fb-267fc203fc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/label/i</value>
+      <webElementGuid>ed34945e-5b05-433f-b70d-478ad988fb03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
